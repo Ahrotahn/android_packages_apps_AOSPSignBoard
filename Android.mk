@@ -7,6 +7,9 @@ LOCAL_SRC_FILES := $(call all-subdir-java-files)
 
 LOCAL_PACKAGE_NAME := AOSPSignBoard
 
+LOCAL_CERTIFICATE := platform
+LOCAL_PRIVILEGED_MODULE := true
+
 include $(BUILD_PACKAGE) 
 
 LOCAL_STATIC_JAVA_LIBRARIES := android-common

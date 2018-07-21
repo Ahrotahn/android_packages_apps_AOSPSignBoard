@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">AOSPSignBoard</string>
-
-    <string name="add_window">Add Window</string>
+    <string name="add_test_view1">Add Test View 1</string>
+    <string name="add_test_view2">Add Test View 2</string>
+    <string name="add_test_view3">Add Test View 3</string>
+    <string name="add_test_view4">Add Test View 4</string>
+    <string name="remove_all_views">Remove All Views</string>
 </resources>

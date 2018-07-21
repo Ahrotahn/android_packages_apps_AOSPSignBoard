@@ -6,8 +6,32 @@
     android:layout_height="match_parent">
 
     <Button
-        android:id="@+id/add_window"
+        android:id="@+id/add_test_view1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/add_window" />
+        android:text="@string/add_test_view1" />
+
+    <Button
+        android:id="@+id/add_test_view2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/add_test_view2" />
+
+    <Button
+        android:id="@+id/add_test_view3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/add_test_view3" />
+
+    <Button
+        android:id="@+id/add_test_view4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/add_test_view4" />
+
+    <Button
+        android:id="@+id/remove_all_views"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/remove_all_views" />
 </LinearLayout>
